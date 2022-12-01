@@ -7,6 +7,8 @@ Testing for the forest module (sklearn.ensemble.forest).
 #          Andreas Mueller,
 #          Arnaud Joly
 # License: BSD 3 clause
+# test delamatrix
+
 
 import pickle
 import math
